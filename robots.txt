@@ -9,4 +9,4 @@ User-agent: Adsbot-Google
 Allow: /
 User-agent: Googlebot-Mobile
 Allow: /
-Sitemap: https://weddings-dresses.netlify.app/sitemap.xml
+Sitemap: https://weddings-dresses.vercel.app/sitemap.xml
